@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBQuMd0ZGEpC2cjVJE-5mjHE8OjbDclLaM",
+    apiKey: "/AIzaSyBQuMd0ZGEpC2cjVJE-5mjHE8OjbDclLaM",
     authDomain: "prostack-68ac6.firebaseapp.com",
     projectId: "prostack-68ac6",
     storageBucket: "prostack-68ac6.appspot.com",
